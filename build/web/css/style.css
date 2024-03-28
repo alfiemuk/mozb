@@ -1,0 +1,24 @@
+body{
+    font-family: 'Poppins', sans-serif !important;
+}
+.form-control {
+    padding: 5px 20px !important;
+    font-size: 24px;
+}
+
+.invalid-feedback{
+    font-size: 130% !important;
+}
+
+.singletitle{
+    background-color: #055160; 
+    color: #0dcaf0 !important;
+}
+
+.promisebg{
+    background-color: #900000 !important;
+}
+
+.promisetext{
+    color: #aa2e2e;
+}

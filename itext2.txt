@@ -1,0 +1,4 @@
+Document d= new Document();
+document.setPageSize(PageSize.A4.rotate());
+
+// LANDSCAPE PDF
